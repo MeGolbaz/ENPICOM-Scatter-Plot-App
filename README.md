@@ -9,6 +9,8 @@ The only technology is needed: **run a live server**. The link is attached below
 
 
 - The `npm` package [`live-server`](https://www.npmjs.com/package/live-server)
-## OR
+## OR Cloning the Existing Repository
+$ git clone <url>
+$ cd Desktop/ENPICOM-Assessment  
 $ npm install -g live-server                                                           
 $ live-server 
