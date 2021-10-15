@@ -1,0 +1,98 @@
+.header {
+    font-weight: bold;
+    font-size: 50px;
+    color: honeydew;
+    font-family: roboto;
+    border-bottom: 1px solid #d3d3d3;
+    background-color:#212B6B;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    padding-top: 50px;
+
+}
+
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 300px;
+    height: 350px;
+    margin-left: 500px;
+    margin-top: 80px;
+    background-color: #F1F2FA;
+    position: relative;
+
+  }
+
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .card-content {
+    padding-top: 30px;
+    padding-bottom: 70px;
+    margin: 0;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    font: 1.02em sans-serif;
+    align-content: center;
+    font-family: 'Courier New', Courier, monospace
+  }
+
+
+
+  .or-style{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-weight: 300;
+    font-family: sans-serif;
+    font-size: smaller;
+    color: grey;
+}
+
+
+.signup-style {
+    margin-top: 20px;
+    font-size: 10px;
+    padding: 5px 10px;
+    background-color: white;
+    color: black;
+    border: 1px solid #212B6B;
+    border-radius: 5px;
+    padding-top: 10;
+}
+
+.click-style {
+    display: inline-block;
+    padding: 7px 15px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    border: 1px solid #212B6B;
+    color: #fff;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 3px #999;
+}
+
+.click-style:hover {background-color: #3e8e41}
+
+.click-style:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+.footer {
+    font-family: sans-serif;
+    font-size: smaller;
+    color: grey;
+    font-weight: 100;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    
+  }
