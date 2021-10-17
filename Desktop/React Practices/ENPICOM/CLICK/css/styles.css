@@ -90,4 +90,19 @@ circle {
       text-align: left;
       color: darkblue;
       background-color:honeydew;
-  }
+      -webkit-animation: random 5s infinite;
+      animation: random 20s infinite;
+      border-radius: 10px;
+
+    }
+    @keyframes  random {
+     15% { background-color: grey; } 
+     30% { background-color: yellow; } 
+     45% { background-color: green; } 
+     60% { background-color: blue; }
+     75% { background-color: white; }  
+    }
+    
+  
+ 
+

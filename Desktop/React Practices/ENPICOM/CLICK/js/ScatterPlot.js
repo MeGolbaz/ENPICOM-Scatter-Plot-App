@@ -86,9 +86,11 @@ class ScatterPlot extends React.Component {
         this.updateAxes();
         this.updatePoints();
     }
+    
     render() {
         // debugger;
         return (
+            
             <section>
                 <div className="chart-wrapper">
                     <svg className="chart"
