@@ -9,8 +9,9 @@
     text-align: center;
     align-content: center;
     padding-top: 50px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 50px;
 
 }
 
@@ -23,7 +24,7 @@
     margin-left: 500px;
     background-color: #F1F2FA;
     position: relative;
-    margin-top: 100px;
+    margin-top: 50px;
     padding-left: 25px;
   }
 
@@ -105,10 +106,7 @@
     font-size: smaller;
     color: grey;
     font-weight: 100;
-    padding-left: 30px;
-    margin-bottom: 10px;
-    position: fixed;
-    
+    padding-left: 10px;
   }
 
 .tag {

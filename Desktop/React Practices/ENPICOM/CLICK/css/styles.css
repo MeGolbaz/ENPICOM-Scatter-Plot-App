@@ -9,8 +9,10 @@
 .jumbotron {
     padding:1rem 1rem;
     margin-bottom:20px;
-    font-family: Roboto;
-    font-size: small;
+    font-family: sans-serif;
+    font-size: medium;
+    font-weight: 1000;
+    margin-bottom: 50px;
 
 }
 
@@ -89,7 +91,3 @@ circle {
       color: darkblue;
       background-color:honeydew;
   }
-
-
-  
-
