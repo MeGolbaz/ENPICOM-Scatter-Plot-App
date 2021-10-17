@@ -1,0 +1,95 @@
+/* @import url("https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css"); */
+@import url("../../lib/bootstrap.min.css");
+
+/* Header */
+.container {
+    text-align: center;
+}
+
+.jumbotron {
+    padding:1rem 1rem;
+    margin-bottom:20px;
+    font-family: Roboto;
+    font-size: small;
+
+}
+
+.lead {
+    margin-bottom:0px;
+}
+
+/* Controls */
+.custom-select {
+    width:inherit;
+}
+
+.control-wrapper {
+    display: inline-block;
+    padding-right:70px;
+    font-weight: bold;
+}
+
+.control-wrapper input[type="range"]  {
+    vertical-align: text-bottom;
+    padding: 10px;
+}
+
+.control-container {
+    border-bottom:2px solid #d3d3d3;
+    margin-bottom:20px;
+    padding-bottom:20px;
+}
+
+/* Scatter plot */
+circle {
+    cursor:pointer;
+}
+.axis-label {
+    text-anchor:middle;
+    font-family: Roboto;
+    font-size:12px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.chart-wrapper {
+    display: inline-block;
+}
+
+
+/* Tooltips */
+.d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+    pointer-events: none;
+  }
+  
+  .list-title {
+      font-size: x-large;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-weight:bolder;
+      border: 2px solid darkblue;
+      width: 30%;
+      text-align: center;
+      margin-left: 400px;
+      margin-bottom: 30px;
+  }
+  
+  .list-title-result {
+
+      font-size: medium;
+      font-family: sans-serif;
+      font-weight:800;
+      word-break: break-all;
+      text-align: left;
+      color: darkblue;
+      background-color:honeydew;
+  }
+
+
+  
+
