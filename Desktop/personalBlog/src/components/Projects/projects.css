@@ -1,0 +1,19 @@
+.transitionFile {
+    width: 100% !important;
+    height: 100% !important;
+    /* opacity: 21000; */
+    /* object-fit: cover; */
+    position: absolute;
+    /* transition: 100s ease; */
+    /* position: relative; */
+    /* border: 4px solid black; */
+    /* overflow: hidden; */
+    padding: 0 !important;
+    margin: 0 !important ;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border: none;
+}
+
